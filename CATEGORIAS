@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]TV[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<name>TV</name>
 <thumbnail>https://ia601407.us.archive.org/9/items/tv_20200128/tv.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/download/fanarttv/fanarttv.jpg</fanart>
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<name>FILMES</name>
 <thumbnail>https://ia601407.us.archive.org/9/items/tv_20200128/filmes.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/download/fanartfilme1/fanartfilme1.jpg</fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<name>SÉRIES</name>
 <thumbnail>https://ia601407.us.archive.org/9/items/tv_20200128/series.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/download/fanartseries/fanartseries.jpg</fanart>
@@ -45,7 +45,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]KIDS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<name>KIDS</name>
 <thumbnail>https://ia801407.us.archive.org/9/items/tv_20200128/kids.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601402.us.archive.org/26/items/dragonballsuper11200x675/Dragon-Ball-Super-1-1200x675.jpg</fanart>
