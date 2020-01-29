@@ -1,6 +1,14 @@
 <item>
-<title>SBT</title>
-<link>http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8</link>
+<title>SBT SP HD</title>
+<link>https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8</link>
 <thumbnail>https://listaiptv.gratis/logos/imagens/sbt.png</thumbnail>
-<fanart></fanart>
+<fanart>https://ia801409.us.archive.org/26/items/bemvindo_20200128/fanart.jpg</fanart>
+</item>
+
+
+<item>
+<title>RECORDTV HD</title>
+<link>https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8</link>
+<thumbnail>https://listaiptv.gratis/logos/imagens/recordtv.png</thumbnail>
+<fanart>https://ia801409.us.archive.org/26/items/bemvindo_20200128/fanart.jpg</fanart>
 </item>
