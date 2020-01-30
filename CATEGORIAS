@@ -1,10 +1,17 @@
-<item>
-<title>[COLOR blue]•[/COLOR] [COLOR White]FAVORITOS[/COLOR]</title>
-<thumbnail></thumbnail>
-<link>http://</link>
+<channels>
+<channel>
+<name>[COLOR blue]•[/COLOR] [COLOR White]FAVORITOS[/COLOR]</name>
+<thumbnail>https://ia801407.us.archive.org/0/items/canaisdetv_202001/canaisdetv.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://archive.org/download/fanarttv/fanarttv.jpg</fanart>
 <info>
 
-by IPTV MARCIO ARAUJO
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES RÁDIOS - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 <channels>
