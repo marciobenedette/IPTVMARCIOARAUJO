@@ -8,7 +8,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> A & E</title>
+<title>1- A & E</title>
 <link>http://198.255.23.18:2095/streams/157_.m3u8</link>
 <thumbnail>https://ia601508.us.archive.org/22/items/ae_20200131/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -17,7 +17,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> AMC </title>
+<title>2- AMC </title>
 <link>http://198.255.23.18:2095/streams/158_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -26,16 +26,16 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> AXN </title>
+<title>3- AXN </title>
 <link>http://198.255.23.18:2095/streams/181_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
-<info>01-</info>
+<info></info>
 <item>
 
 
 <item>
-<title> CINEMAX </title>
+<title>4- CINEMAX </title>
 <link>http://198.255.23.18:2095/streams/183_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -44,7 +44,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> FOX </title>
+<title>5- FOX </title>
 <link>http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36972</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -53,7 +53,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> FOX PREMIUM 1 </title>
+<title>6- FOX PREMIUM 1 </title>
 <link>http://198.255.23.18:2095/streams/165_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -62,7 +62,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> FOX PREMIUM 2 </title>
+<title>7- FOX PREMIUM 2 </title>
 <link>http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36973</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -71,7 +71,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> FX </title>
+<title>8- FX </title>
 <link>http://198.255.23.18:2095/streams/113_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -80,7 +80,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> HBO </title>
+<title>9- HBO </title>
 <link>http://198.255.23.18:2095/streams/185_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -89,7 +89,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> HBO 2 </title>
+<title>10- HBO 2 </title>
 <link>http://198.255.23.18:2095/streams/187_.m3u8 </link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -98,7 +98,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> HBO FAMILY </title>
+<title>11- HBO FAMILY </title>
 <link>http://198.255.23.18:2095/streams/193_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -107,7 +107,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> HBO PLUS </title>
+<title>12- HBO PLUS </title>
 <link>http://198.255.23.18:2095/streams/190_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -116,7 +116,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> HBO SIGNATURE </title>
+<title>13- HBO SIGNATURE </title>
 <link>http://198.255.23.18:2095/streams/151_.m3u8 </link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -125,7 +125,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> MAX </title>
+<title>14- MAX </title>
 <link>http://198.255.23.18:2095/streams/195_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -134,7 +134,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> MAX PRIME </title>
+<title>15- MAX PRIME </title>
 <link>http://198.255.23.18:2095/streams/197_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -143,8 +143,8 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> MEGAPIX </title>
-<link>https://d3dwqawq9yp7h.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=</link>
+<title>16- MEGAPIX </title>
+<link>http://198.255.23.18:2095/streams/171_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
 <info></info>
@@ -152,7 +152,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> PARAMOUNT </title>
+<title>17- PARAMOUNT </title>
 <link>http://198.255.23.18:2095/streams/172_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -161,7 +161,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> SPACE </title>
+<title>18- SPACE </title>
 <link>http://198.255.23.18:2095/streams/200_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -170,7 +170,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> SONY</title>
+<title>19- SONY</title>
 <link>http://198.255.23.18:2095/streams/160_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -179,7 +179,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> SYFY </title>
+<title>20- SYFY </title>
 <link>http://198.255.23.18:2095/streams/174_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -188,7 +188,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> TCM </title>
+<title>21- TCM </title>
 <link>http://198.255.23.18:2095/streams/201_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -197,7 +197,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> TELECINE ACTION </title>
+<title>22- TELECINE ACTION </title>
 <link>http://198.255.23.18:2095/streams/213_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -206,7 +206,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> TELECINE CULT </title>
+<title>23- TELECINE CULT </title>
 <link>http://198.255.23.18:2095/streams/203_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -215,7 +215,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> TELECINE FUN </title>
+<title>24- TELECINE FUN </title>
 <link>http://198.255.23.18:2095/streams/205_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -224,7 +224,7 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> TELECINE PIPOCA </title>
+<title>25- TELECINE PIPOCA </title>
 <link>http://198.255.23.18:2095/streams/207_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
@@ -233,7 +233,44 @@ by IPTV MARCIO ARAUJO
 
 
 <item>
-<title> WARNER CHANNEL </title>
+<title>26- TNT </title>
+<link>http://198.255.23.18:2095/streams/202_.m3u8</link>
+<thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
+<fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
+<info></info>
+<item>
+
+
+<item>
+<title>27- TNT SERIES </title>
+<link>http://198.255.23.18:2095/streams/176_.m3u8</link>
+<thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
+<fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
+<info></info>
+<item>
+
+
+<item>
+<title>28- TBS </title>
+<link>http://198.255.23.18:2095/streams/175_.m3u8</link>
+<thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
+<fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
+<info></info>
+<item>
+
+
+<item>
+<title>29- UNIVERSAL CHANNEL </title>
+<link>http://198.255.23.18:2095/streams/178_.m3u8</link>
+<thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
+<fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
+<info></info>
+<item>
+
+
+
+<item>
+<title>30- WARNER CHANNEL </title>
 <link>http://198.255.23.18:2095/streams/179_.m3u8</link>
 <thumbnail>https://ia601406.us.archive.org/6/items/ae_20200130/ae.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
