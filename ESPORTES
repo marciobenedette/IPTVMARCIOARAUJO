@@ -27,7 +27,7 @@ by IPTV MARCIO ARAUJO
 
 <item>
 <title> ESPN </title>
-<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/espn_887309d0_fc84d464061dab746c00d68627a371fe580b94e4/playlist.m3u8</link>
+<link>https://origin.canaismax.com/mylive/espnhd/video.m3u8?md5=EqwLXDeKBoagLih_4FDWRw&expires=1580542686</link>
 <thumbnail>https://ia601407.us.archive.org/13/items/id_20200201/animalplanet.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
 <info></info>
@@ -36,7 +36,7 @@ by IPTV MARCIO ARAUJO
 
 <item>
 <title> ESPN 2 </title>
-<link>http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36976</link>
+<link>https://origin.canaismax.com/live/espnmaishd/video.m3u8?md5=bvwAhi2g32nRlGi9tqLKpA&expires=1580542748</link>
 <thumbnail>https://ia601407.us.archive.org/13/items/id_20200201/animalplanet.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
 <info></info>
@@ -45,7 +45,7 @@ by IPTV MARCIO ARAUJO
 
 <item>
 <title> ESPN BRASIL </title>
-<link>http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36978</link>
+<link>https://origin.canaismax.com/mylive/espnbrasilhd/video.m3u8?md5=egCaGIi1DyjL-e_EKXyfOQ&expires=1580542803</link>
 <thumbnail>https://ia601407.us.archive.org/13/items/id_20200201/animalplanet.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
 <info></info>
@@ -54,7 +54,7 @@ by IPTV MARCIO ARAUJO
 
 <item>
 <title> ESPN EXTRA </title>
-<link>http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/42910</link>
+<link>https://origin.canaismax.com/live/espnextrahd/video.m3u8?md5=5OavW9qphMdYoG30wx2daQ&expires=1580542867</link>
 <thumbnail>https://ia601407.us.archive.org/13/items/id_20200201/animalplanet.png</thumbnail>
 <fanart>https://ia801401.us.archive.org/11/items/fanart2_20200129/fanart1.jpg</fanart>
 <info></info>
